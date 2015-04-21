@@ -1,0 +1,96 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=FR, ST=IDF, L=Paris, O=fairsys, OU=DSI, CN=fairsys CA/name=EasyRSA/emailAddress=a.thibault@fairsys.fr
+        Validity
+            Not Before: Apr 14 10:26:40 2015 GMT
+            Not After : Apr 11 10:26:40 2025 GMT
+        Subject: C=FR, ST=IDF, L=Paris, O=fairsys, OU=DSI, CN=adrien/name=adrien/emailAddress=a.thibault@fairsys.fr
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e3:7e:90:41:81:d1:80:ae:93:de:ad:27:c4:b2:
+                    a5:71:f3:34:e3:36:0f:c5:c3:fc:b3:f0:86:e2:84:
+                    07:fe:5b:cb:50:47:f3:92:f2:bd:b5:8e:14:d9:e4:
+                    bc:b3:0c:6d:6a:b7:bf:dd:3e:29:f3:98:4c:9e:c3:
+                    a0:0c:3d:ba:55:57:75:9f:fa:df:4a:11:f5:95:7a:
+                    28:99:2b:7f:3a:57:bd:8f:6c:dc:12:6a:ac:28:2a:
+                    3d:43:6c:d8:31:fb:6c:ca:81:23:29:e1:c7:1f:67:
+                    20:06:9b:eb:79:38:9e:73:0f:49:82:f4:c9:4d:8d:
+                    10:2b:ab:17:e0:14:a1:ec:72:19:76:1a:95:df:35:
+                    66:42:9a:02:80:bf:a3:81:b7:d5:30:15:32:37:ec:
+                    bb:3f:86:82:6a:e1:f4:7b:39:b4:9d:72:b7:67:23:
+                    81:ff:bd:fb:f0:fe:ca:93:dc:fd:d8:75:78:0c:e2:
+                    b5:ee:78:48:fd:fc:5b:a0:1a:da:8e:90:ed:3b:04:
+                    27:ef:79:a6:b7:a6:e0:87:70:75:04:b1:f5:e7:33:
+                    99:58:6f:c6:10:18:5c:19:6e:3b:39:7c:3c:aa:be:
+                    30:86:ca:6f:05:5b:0e:5a:59:c4:e2:20:25:42:9c:
+                    cb:90:ef:3f:3f:1a:61:00:9c:42:42:3c:62:6e:a1:
+                    59:33
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                E6:CF:40:B6:79:F9:8C:17:C0:82:EE:C0:88:54:A7:46:CD:E3:2F:74
+            X509v3 Authority Key Identifier: 
+                keyid:C5:D4:75:E3:E1:ED:A3:CE:43:95:80:9B:C6:3D:13:4F:53:C3:14:5F
+                DirName:/C=FR/ST=IDF/L=Paris/O=fairsys/OU=DSI/CN=fairsys CA/name=EasyRSA/emailAddress=a.thibault@fairsys.fr
+                serial:81:4A:D0:99:6C:B2:C3:64
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                DNS:adrien
+    Signature Algorithm: sha256WithRSAEncryption
+         6b:a4:ae:68:2d:0d:e6:f0:e3:f7:63:9a:80:ee:b2:2a:99:8b:
+         88:86:33:71:a4:e7:05:4d:99:78:98:f0:ce:a3:95:8a:5e:7d:
+         80:da:20:c0:b7:56:56:2d:45:de:0d:ff:3b:83:b0:d4:94:02:
+         2e:c9:b4:95:49:d3:75:89:5f:9d:f7:35:50:6e:84:09:01:54:
+         74:d1:ca:cb:6e:cf:b2:9c:d9:fc:5c:38:3b:66:69:18:97:91:
+         6e:d3:f5:4a:22:63:b9:ef:c9:c1:43:68:51:0a:e2:52:19:2b:
+         86:d9:5c:0f:88:c5:53:39:6d:87:fe:4c:c8:6c:63:06:08:2f:
+         38:78:78:3b:1e:ac:98:c4:8c:d2:df:01:73:82:05:67:d5:59:
+         57:cc:95:80:ad:9b:3c:60:35:ab:db:53:b1:7d:b8:ad:82:0c:
+         20:1a:c1:79:6e:b7:a6:75:2d:89:25:c6:d3:2a:26:bd:15:9a:
+         9b:e1:10:b9:66:56:16:e1:0c:b3:fa:20:92:23:40:9f:22:51:
+         98:dd:23:83:e8:34:fd:c6:15:a4:d9:1f:1b:e2:bf:04:15:95:
+         33:5a:fa:b5:c9:69:10:b2:4c:45:dd:7b:81:2a:23:e1:87:3e:
+         d0:d3:f9:14:f7:a3:e3:5a:38:07:90:36:ad:e5:5b:63:02:ed:
+         7b:fe:39:35
+-----BEGIN CERTIFICATE-----
+MIIFDDCCA/SgAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBmDELMAkGA1UEBhMCRlIx
+DDAKBgNVBAgTA0lERjEOMAwGA1UEBxMFUGFyaXMxEDAOBgNVBAoTB2ZhaXJzeXMx
+DDAKBgNVBAsTA0RTSTETMBEGA1UEAxMKZmFpcnN5cyBDQTEQMA4GA1UEKRMHRWFz
+eVJTQTEkMCIGCSqGSIb3DQEJARYVYS50aGliYXVsdEBmYWlyc3lzLmZyMB4XDTE1
+MDQxNDEwMjY0MFoXDTI1MDQxMTEwMjY0MFowgZMxCzAJBgNVBAYTAkZSMQwwCgYD
+VQQIEwNJREYxDjAMBgNVBAcTBVBhcmlzMRAwDgYDVQQKEwdmYWlyc3lzMQwwCgYD
+VQQLEwNEU0kxDzANBgNVBAMTBmFkcmllbjEPMA0GA1UEKRMGYWRyaWVuMSQwIgYJ
+KoZIhvcNAQkBFhVhLnRoaWJhdWx0QGZhaXJzeXMuZnIwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQDjfpBBgdGArpPerSfEsqVx8zTjNg/Fw/yz8IbihAf+
+W8tQR/OS8r21jhTZ5LyzDG1qt7/dPinzmEyew6AMPbpVV3Wf+t9KEfWVeiiZK386
+V72PbNwSaqwoKj1DbNgx+2zKgSMp4ccfZyAGm+t5OJ5zD0mC9MlNjRArqxfgFKHs
+chl2GpXfNWZCmgKAv6OBt9UwFTI37Ls/hoJq4fR7ObSdcrdnI4H/vfvw/sqT3P3Y
+dXgM4rXueEj9/FugGtqOkO07BCfveaa3puCHcHUEsfXnM5lYb8YQGFwZbjs5fDyq
+vjCGym8FWw5aWcTiICVCnMuQ7z8/GmEAnEJCPGJuoVkzAgMBAAGjggFiMIIBXjAJ
+BgNVHRMEAjAAMC0GCWCGSAGG+EIBDQQgFh5FYXN5LVJTQSBHZW5lcmF0ZWQgQ2Vy
+dGlmaWNhdGUwHQYDVR0OBBYEFObPQLZ5+YwXwILuwIhUp0bN4y90MIHNBgNVHSME
+gcUwgcKAFMXUdePh7aPOQ5WAm8Y9E09TwxRfoYGepIGbMIGYMQswCQYDVQQGEwJG
+UjEMMAoGA1UECBMDSURGMQ4wDAYDVQQHEwVQYXJpczEQMA4GA1UEChMHZmFpcnN5
+czEMMAoGA1UECxMDRFNJMRMwEQYDVQQDEwpmYWlyc3lzIENBMRAwDgYDVQQpEwdF
+YXN5UlNBMSQwIgYJKoZIhvcNAQkBFhVhLnRoaWJhdWx0QGZhaXJzeXMuZnKCCQCB
+StCZbLLDZDATBgNVHSUEDDAKBggrBgEFBQcDAjALBgNVHQ8EBAMCB4AwEQYDVR0R
+BAowCIIGYWRyaWVuMA0GCSqGSIb3DQEBCwUAA4IBAQBrpK5oLQ3m8OP3Y5qA7rIq
+mYuIhjNxpOcFTZl4mPDOo5WKXn2A2iDAt1ZWLUXeDf87g7DUlAIuybSVSdN1iV+d
+9zVQboQJAVR00crLbs+ynNn8XDg7ZmkYl5Fu0/VKImO578nBQ2hRCuJSGSuG2VwP
+iMVTOW2H/kzIbGMGCC84eHg7HqyYxIzS3wFzggVn1VlXzJWArZs8YDWr21Oxfbit
+ggwgGsF5bremdS2JJcbTKia9FZqb4RC5ZlYW4Qyz+iCSI0CfIlGY3SOD6DT9xhWk
+2R8b4r8EFZUzWvq1yWkQskxF3XuBKiPhhz7Q0/kU96PjWjgHkDat5VtjAu17/jk1
+-----END CERTIFICATE-----
